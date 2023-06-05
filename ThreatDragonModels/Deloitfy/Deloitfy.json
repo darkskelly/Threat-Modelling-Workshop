@@ -1,0 +1,26 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "Deloitfy",
+    "owner": "Oskar Giles",
+    "description": "A spotify type architecture made for a threat modelling workshop",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Deloitfy",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.3",
+        "description": "Delotify"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Gill Gurbaaz",
+    "threatTop": 0
+  }
+}
